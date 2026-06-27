@@ -1,7 +1,5 @@
 # maad-portfolio-optimizer
-Portfolio Optimizer using MAAD
-
-readme_content = """# Polyglot Portfolio Optimizer: Mean Absolute Deviation (MAD) Linear Programming Engine
+Polyglot Portfolio Optimizer: Mean Absolute Deviation (MAD) Linear Programming Engine
 
 A high-performance, production-ready portfolio optimization and deployment pipeline that marries **Julia's computational efficiency** with **Python's robust data ecosystem**. This project implements a **Mean Absolute Deviation (MAD)** asset allocation framework solved via Linear Programming (LP), complete with an automated walk-forward backtester net of transaction friction and a live brokerage execution pipeline via the Alpaca API.
 
